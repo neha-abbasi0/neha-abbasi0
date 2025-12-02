@@ -1,15 +1,15 @@
 # 👩‍💻 Neha Abbasi  
 ### M.Sc. Artificial Intelligence (Germany) | ML & Deep Learning | Python Developer  
-### Aspiring IT Specialist – Application Development (Ausbildung)
 
 Hi there! 👋 I'm **Neha**, a computer science graduate and current **Master’s student in Artificial Intelligence at Brandenburg University of Technology (BTU), Germany**.  
 
 I am passionate about building intelligent systems using **Machine Learning, Deep Learning, Neural Networks, and Python**.  
 Currently, I am actively exploring opportunities in:
 
-🔹 **IT Ausbildung (Fachinformatikerin – Anwendungsentwicklung)**  
 🔹 **IT Internships (Werkstudent)**  
 🔹 **Entry-level roles in ML, AI, Data Science, or Python development**
+🔹 **Working Student Roles (Werkstudent IT / AI / ML / Python)**  
+
 
 ---
 
